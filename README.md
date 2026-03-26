@@ -1,5 +1,17 @@
 # 📄 AVT Racing — Dökümanlar & Sponsorluk
 
+## 📊 İlerleme & Çalışma Akışı
+
+- [🔄 WORKFLOW.md](WORKFLOW.md) — Çalışma akışı ve PR kuralları
+- [📊 PROGRESS.md](PROGRESS.md) — Görev durumları ve ilerleme
+- [🐛 BUGS.md](BUGS.md) — Bug raporları ve debug takibi
+
+> Her değişiklik PR ile yapılır. Review: @ahmetinci06 & Yaver (AI CTO)
+
+---
+
+
+
 > **avt-docs** — Sponsorluk materyalleri, sosyal medya içerikleri, TEKNOFEST dökümanları ve genel ekip raporlarının deposu.
 
 [![Ana Hub](https://img.shields.io/badge/Ana%20Hub-avt--hub--dev-blue)](https://github.com/ahmetinci06/avt-hub-dev)
