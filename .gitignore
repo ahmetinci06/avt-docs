@@ -1,0 +1,34 @@
+# Ofis dökümanları (büyük dosyalar — Drive'a yükle)
+# *.pptx  # Küçük sunumlar repoda kalabilir
+# *.docx  # Küçük dökümanlar repoda kalabilir
+
+# Gizli dosyalar
+contracts/signed/
+correspondence/private/
+*.confidential
+
+# Görseller ve videolar (büyük)
+*.mp4
+*.mov
+*.avi
+*.mkv
+# Büyük görseller (100MB+)
+# *.psd   # Photoshop kaynak — Drive'a yükle
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Geçici
+*.tmp
+*.bak
+~*
+*~
+
+# Adobe
+*.indd
+*.ai  # Küçük AI dosyaları tutulabilir
+
+# Log
+*.log
